@@ -1,0 +1,6 @@
+2. OK su semantiniai, bet stiliø HTML galima bûtø patasyti... atitraukimai nuo kraðto
+3. Rezultatas ok, bet stiliø bûtø galima patvarkyti dar.
+4. Reikëjo be stiliø padaryti :) Pirmi namu darbai be stiliu tik html
+5. Pagal uzduoti skaiciuotuvas dedamas i lenteles remeli.
+6. OK. Tik stiliø pataisom.
+9. Reiktø naudoti video elementà. O video paimti ið lektoriaus repozitorijos resursø failo.
